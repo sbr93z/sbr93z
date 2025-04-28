@@ -11,7 +11,7 @@ Développeur C 💻, étudiant à l'école 42, passionné par la cybersécurité
   Reproduction du problème des philosophes en utilisant des threads pour gérer la synchronisation et éviter les deadlocks.
 
 ## Contact
-
+- 💻 Intra 42 : [sferrad](https://profile-v3.intra.42.fr/)
 - 📧 Email : [sferrad@student.42.fr](mailto:sferrad@student.42.fr)
 - 🔗 LinkedIn : [sabry-ferrad](https://www.linkedin.com/in/sabry-ferrad-722ba6354/)
 
