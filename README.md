@@ -18,6 +18,6 @@ Développeur C 💻, étudiant à l'école 42, passionné par la cybersécurité
 - **Langages** : C, Python 🐍
 - **Outils** : Git, Makefile, GDB 🛠️
 - **Frameworks** : Libft, MiniLibX 🧩
-- **Systèmes** : Lunix, POSIX 🖧
+- **Systèmes** : Linux (Debian, Ubuntu, Kali), Windows 10, POSIX 🖧
 
 🔗 **[GitHub](https://github.com/sbr93z)**
