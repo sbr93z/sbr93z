@@ -7,6 +7,8 @@ Développeur C 💻, étudiant à l'école 42, passionné par la cybersécurité
 
 - **[Minishell](https://github.com/sbr93z/minishell)**  
   Shell simplifié en C 🖥️, avec gestion des commandes, builtins, pipes et redirections.
+- **[Philosophers](https://github.com/sbr93z/philosophers)**  
+  Reproduction du problème des philosophes en utilisant des threads pour gérer la synchronisation et éviter les deadlocks.
 
 ## Contact
 
